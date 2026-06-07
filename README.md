@@ -1,6 +1,6 @@
 # Datogami 🎓
 
-Formación en Data Science aplicada a negocios reales, en español.
+Formación en **Ciencia de Datos** aplicada a negocios reales, en español.
 
 Nuestros cursos están diseñados para que aprendas haciendo, 
 con casos de negocio reales y un flujo de trabajo profesional 
