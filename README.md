@@ -10,4 +10,4 @@ desde el primer día.
 
 - [datogami.com](https://datogami.com)
 - [Instagram](https://instagram.com/datogami)
-- [Facebook](profile.php?id=61587241190265)
+- [Facebook]([profile.php?id=61587241190265](https://www.facebook.com/profile.php?id=61587241190265))
