@@ -1,0 +1,13 @@
+# Datogami 🎓
+
+Formación en Data Science aplicada a negocios reales, en español.
+
+Nuestros cursos están diseñados para que aprendas haciendo, 
+con casos de negocio reales y un flujo de trabajo profesional 
+desde el primer día.
+
+## 🌐 Encuéntranos
+
+- [datogami.com](https://datogami.com)
+- [Instagram](https://instagram.com/datogami)
+- [Facebook](https://facebook.com/datogami)
